@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 2rem;
+    font-weight: 1px;
+    color:rgb(100, 95, 95);
+    font-family: sans-serif;
+}
+div{
+    text-align: center;
+    margin: 5px ;
+    font-family: sans-serif;
+    margin-left: 30rem;
+    padding: 50px;
+    width: 500px;
+    height: 40rem;
+    font-size: 30px;
+    border: 0.5rem solid rgb(226, 220, 220);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.144);
+    color: white;
+}
+div select{
+    font-size: 2rem;
+    margin: 1rem;
+}
+div input{
+    /* size: 10rem; */
+    font-size: 2rem;
+}
+div button{
+    margin: 2rem;
+    font-size: 2rem;
+}
